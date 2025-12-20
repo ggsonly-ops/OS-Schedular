@@ -1,1 +1,1 @@
-# OS-Schedular
+# OS-Scheduler
